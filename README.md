@@ -9,7 +9,7 @@ scipy1.7.3 or above
 matplotlib3.5.1 or above
 
 
-#Installation on Linux/Ubuntu
+# Installation on Linux/Ubuntu
 If you do not have python or the relavant packages written
 above, then use following commands to install them!
 
